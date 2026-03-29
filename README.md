@@ -1,6 +1,6 @@
 # selenium-ui-java
 
-Enterprise Selenium 4 + Java 21 + JUnit 5 UI test framework for OrangeHRM Demo.
+Selenium 4 + Java 21 + JUnit 5 UI test framework for OrangeHRM Demo.
 
 ## Tech Stack
 
