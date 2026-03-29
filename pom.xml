@@ -8,8 +8,8 @@
     <version>1.0.0</version>
     <name>Selenium Java UI Test Framework</name>
     <properties>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <selenium.version>4.21.0</selenium.version>
         <webdrivermanager.version>5.8.0</webdrivermanager.version>
